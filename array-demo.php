@@ -5,6 +5,14 @@
 	 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	 </head>
 	 <body>
+	 
+		<?php 
+	 	#   这是注释
+	 	//  这也是注释
+	 	/*
+	 		这是多行注释
+	 	*/
+	 	?>
 	
 	 	<?php 
 	 		echo "<h3>索引数组</h3>";
